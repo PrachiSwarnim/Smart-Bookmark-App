@@ -1,13 +1,13 @@
-# 🔖 Smart Bookmark App
+# Smart Bookmark App
 
 A modern, real-time bookmark manager built with Next.js and Supabase. Save, organize, and access your favorite links privately — with instant sync across all your devices.
 
-🔗 **Live Demo:** [smart-bookmark-app-beta-teal.vercel.app](https://smart-bookmark-app-beta-teal.vercel.app)  
-📦 **Repo:** [github.com/PrachiSwarnim/Smart-Bookmark-App](https://github.com/PrachiSwarnim/Smart-Bookmark-App)
+ **Live Demo:** [smart-bookmark-app-beta-teal.vercel.app](https://smart-bookmark-app-beta-teal.vercel.app)  
+ **Repo:** [github.com/PrachiSwarnim/Smart-Bookmark-App](https://github.com/PrachiSwarnim/Smart-Bookmark-App)
 
 ---
 
-## ✨ Features
+##  Features
 
 | Feature | Description |
 |---------|-------------|
@@ -24,7 +24,7 @@ A modern, real-time bookmark manager built with Next.js and Supabase. Save, orga
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **Frontend:** [Next.js 16](https://nextjs.org/) (App Router)
 - **Auth:** [Supabase Auth](https://supabase.com/auth) (Google OAuth)
@@ -35,7 +35,7 @@ A modern, real-time bookmark manager built with Next.js and Supabase. Save, orga
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 - Node.js 18+
@@ -113,7 +113,7 @@ A modern, real-time bookmark manager built with Next.js and Supabase. Save, orga
 
 ---
 
-## 🧩 Problems I Ran Into & Solutions
+##  Problems I Ran Into & Solutions
 
 ### 1. Supabase Realtime not syncing across tabs
 **Problem:** After adding the Supabase Realtime subscription, changes from one tab weren't showing in another. The `selectedFolder` state inside the realtime callback was stale (always the initial value due to closure).
@@ -142,7 +142,7 @@ A modern, real-time bookmark manager built with Next.js and Supabase. Save, orga
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 smart-bookmark-app/
@@ -160,6 +160,6 @@ smart-bookmark-app/
 
 ---
 
-## 📄 License
+##  License
 
 MIT
