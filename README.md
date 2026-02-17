@@ -2,7 +2,7 @@
 
 A modern, real-time bookmark manager built with Next.js and Supabase. Save, organize, and access your favorite links privately — with instant sync across all your devices.
 
-🔗 **Live Demo:** [your-app.vercel.app](https://your-app.vercel.app)  
+🔗 **Live Demo:** [smart-bookmark-app-beta-teal.vercel.app](https://smart-bookmark-app-beta-teal.vercel.app)  
 📦 **Repo:** [github.com/PrachiSwarnim/Smart-Bookmark-App](https://github.com/PrachiSwarnim/Smart-Bookmark-App)
 
 ---
